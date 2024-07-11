@@ -11,11 +11,11 @@ https://www.udemy.com/course/react-the-complete-guide-incl-redux
   <li>First React App Forked
     <ul>
       <li>This is a Test Project only to check how react app works in local System.</li>
-    <ul>
+    </ul>
   </li>
   <li>React Starting Project
     <ul>
       <li>This project covers Reacts exxestials like Components, JSX, Props, State</li>
-    <ul>
+    </ul>
   </li>
 </ul>
