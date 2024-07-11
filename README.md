@@ -1,7 +1,7 @@
 # React - Udemy-Course
 These are react apps based on a Udemy Course.
 
-<h1>Course Name - React - The Complete Guide 2024 (incl. Next.js, Redux)</h1>
+<h2>Course Name - React - The Complete Guide 2024 (incl. Next.js, Redux)</h2>
 
 <b>Course Link</b>
 https://www.udemy.com/course/react-the-complete-guide-incl-redux
