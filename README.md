@@ -15,12 +15,12 @@ https://www.udemy.com/course/react-the-complete-guide-incl-redux
   </li>
   <li>React Starting Project
     <ul>
-      <li>This project covers Reacts exxestials like Components, JSX, Props, State</li>
+      <li>This project covers Reacts Essestials like Components, JSX, Props, State</li>
     </ul>
   </li>
   <li>Tic Tac Toe Project
     <ul>
-      <li>This project dives deep into React.</li>
+      <li>This project deep dives into React Essentials.</li>
     </ul>
   </li>
 </ul>
