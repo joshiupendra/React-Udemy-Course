@@ -18,4 +18,9 @@ https://www.udemy.com/course/react-the-complete-guide-incl-redux
       <li>This project covers Reacts exxestials like Components, JSX, Props, State</li>
     </ul>
   </li>
+  <li>Tic Tac Toe Project
+    <ul>
+      <li>This project dives deep into React.</li>
+    </ul>
+  </li>
 </ul>
