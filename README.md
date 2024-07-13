@@ -28,4 +28,17 @@ https://www.udemy.com/course/react-the-complete-guide-incl-redux
       <li>This is a practice project.</li>
     </ul>
   </li>
+  <li>Styling React Project
+    <ul>
+      <li>This project will include following:
+        <ul>
+          <li>Styling with Vanilla CSS</li>
+          <li>Scoping Styles with CSS Modules</li>
+          <li>CSS-in-JS Styling with "Styled Components"</li>
+          <li>Styling with Tailwind CSS</li>
+          <li>Static & Dynamic (Conditional) Styling</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
 </ul>
