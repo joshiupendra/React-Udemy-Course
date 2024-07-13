@@ -23,4 +23,9 @@ https://www.udemy.com/course/react-the-complete-guide-incl-redux
       <li>This project deep dives into React Essentials.</li>
     </ul>
   </li>
+  <li>Investment Calculator Project
+    <ul>
+      <li>This is a practice project.</li>
+    </ul>
+  </li>
 </ul>
