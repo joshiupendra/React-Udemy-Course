@@ -42,15 +42,11 @@ https://www.udemy.com/course/react-the-complete-guide-incl-redux
     </ul>
   </li>
   <li>React Debug Project
-    <ul>
-      <li>This project will include following:
-        <ul>
-          <li>Making Sense of React Error Messages</li>
-          <li>Finding Logical Errors via the Browser DevTools & Debugger</li>
-          <li>Enabling React's Strict Mode</li>
-          <li>Using the React DevTools for Application Analysis & Manipulation</li>
-        </ul>
-      </li>
+    <ul>This project will include following:
+      <li>Making Sense of React Error Messages</li>
+      <li>Finding Logical Errors via the Browser DevTools & Debugger</li>
+      <li>Enabling React's Strict Mode</li>
+      <li>Using the React DevTools for Application Analysis & Manipulation</li>
     </ul>
   </li>
 </ul>
