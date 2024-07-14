@@ -28,7 +28,7 @@ https://www.udemy.com/course/react-the-complete-guide-incl-redux
       <li>This is a practice project.</li>
     </ul>
   </li>
-  <li>Styling React Project
+  <li>Styling React Project <br>
   This project will include following:
     <ul>
       <li>Styling with Vanilla CSS</li>
@@ -38,7 +38,7 @@ https://www.udemy.com/course/react-the-complete-guide-incl-redux
       <li>Static & Dynamic (Conditional) Styling</li>
     </ul>
   </li>
-  <li>React Debug Project
+  <li>React Debug Project <br>
   This project will include following:
     <ul>
       <li>Making Sense of React Error Messages</li>
