@@ -7,7 +7,7 @@ These are react apps based on a Udemy Course.
 https://www.udemy.com/course/react-the-complete-guide-incl-redux
 
 <h4>Projects List</h4>
-<ul>
+<ol>
   <li>First React App Forked
     <ul>
       <li>This is a Test Project only to check how react app works in local System.</li>
@@ -56,4 +56,4 @@ https://www.udemy.com/course/react-the-complete-guide-incl-redux
       <li>Detaching DOM Rendering from JSX Structure with Portals</li>
     </ul>
   </li>
-</ul>
+</ol>
