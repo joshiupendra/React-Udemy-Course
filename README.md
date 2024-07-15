@@ -47,4 +47,13 @@ https://www.udemy.com/course/react-the-complete-guide-incl-redux
       <li>Using the React DevTools for Application Analysis & Manipulation</li>
     </ul>
   </li>
+  <li>React Refs & Portals Project <br>
+  Advanced DOM Access & Value Management
+    <ul>
+      <li>Accessing DOM Elements with Refs</li>
+      <li>Managing Values with Refs</li>
+      <li>Exposing API Functions from Components</li>
+      <li>Detaching DOM Rendering from JSX Structure with Portals</li>
+    </ul>
+  </li>
 </ul>
