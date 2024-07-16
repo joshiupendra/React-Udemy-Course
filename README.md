@@ -56,4 +56,14 @@ https://www.udemy.com/course/react-the-complete-guide-incl-redux
       <li>Detaching DOM Rendering from JSX Structure with Portals</li>
     </ul>
   </li>
+  <li>React Project Management Project: Advanced React Concepts
+  Working with Components, State, Styling, Refs & Portals
+    <ul>
+      <li>Build a "Project Management" Web App</li>
+      <li>Build, Style, Configure & Re-use Components</li>
+      <li>Manage State</li>
+      <li>Access DOM Elements & Browser APIs with Refs</li>
+      <li>Manage JSX Rendering Positions with Portals</li>
+    </ul>
+  </li>
 </ol>
