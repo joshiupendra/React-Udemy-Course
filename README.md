@@ -56,7 +56,7 @@ https://www.udemy.com/course/react-the-complete-guide-incl-redux
       <li>Detaching DOM Rendering from JSX Structure with Portals</li>
     </ul>
   </li>
-  <li>React Project Management Project: Advanced React Concepts
+  <li>React Project Management Project: Advanced React Concepts<br>
   Working with Components, State, Styling, Refs & Portals
     <ul>
       <li>Build a "Project Management" Web App</li>
@@ -66,12 +66,13 @@ https://www.udemy.com/course/react-the-complete-guide-incl-redux
       <li>Manage JSX Rendering Positions with Portals</li>
     </ul>
   </li>
-  <li>Shopping Cart Project: Advanced State Management</li>
+  <li>Shopping Cart Project: Advanced State Management<br>
   Beyond Basic Apps & "Lifting Up State"
     <ul>
-      <li>The Problem Of Shared State: Prop Drilling</li>
+      <li>The Problem Of Shared State: Prop Drilling
       <li>Embracing Component Composition</li>
       <li>Sharing State with Context</li>
       <li>Managing Complex State with Reducers</li>
     </ul>
+  </li>
 </ol>
