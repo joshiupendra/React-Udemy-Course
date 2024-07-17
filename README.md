@@ -6,6 +6,18 @@ These are react apps based on a Udemy Course.
 <b>Course Link</b>
 https://www.udemy.com/course/react-the-complete-guide-incl-redux
 
+<p>
+<h4>To run React App Use following commands</h4>
+<p>
+
+```npm
+npm install
+npm run dev
+```
+
+</p>
+</P>
+
 <h4>Projects List</h4>
 <ol>
   <li>First React App Forked
