@@ -66,4 +66,12 @@ https://www.udemy.com/course/react-the-complete-guide-incl-redux
       <li>Manage JSX Rendering Positions with Portals</li>
     </ul>
   </li>
+  <li>Shopping Cart Project: Advanced State Management</li>
+  Beyond Basic Apps & "Lifting Up State"
+    <ul>
+      <li>The Problem Of Shared State: Prop Drilling</li>
+      <li>Embracing Component Composition</li>
+      <li>Sharing State with Context</li>
+      <li>Managing Complex State with Reducers</li>
+    </ul>
 </ol>
