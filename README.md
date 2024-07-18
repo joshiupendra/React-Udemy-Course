@@ -87,4 +87,12 @@ npm run dev
       <li>Managing Complex State with Reducers</li>
     </ul>
   </li>
+  <li>React PlacePicker Project: Dealing with Side Effects<br>
+  Keeping the UI Synchronized
+    <ul>
+      <li>Understanding Side Effects & useEffect()</li>
+      <li>Effects & Dependencies</li>
+      <li>When NOT to use useEffect()</li>
+    </ul>
+  </li>
 </ol>
