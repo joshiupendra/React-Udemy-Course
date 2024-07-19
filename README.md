@@ -112,4 +112,11 @@ npm run dev
       <li>State Scheduling & State Batching</li>
     </ul>
   </li>
+  <li>React User Class Based Project: Class-Based Components<br>
+  An Alternative Way of Building Components
+    <ul>
+      <li>Working with Class-based Components</li>
+      <li>Error Boundaries</li>
+    </ul>
+  </li>
 </ol>
