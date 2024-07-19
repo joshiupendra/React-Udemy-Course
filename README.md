@@ -7,7 +7,7 @@ These are react apps based on a Udemy Course.
 https://www.udemy.com/course/react-the-complete-guide-incl-redux
 
 <p>
-<h4>To run React App Use following commands:</h4>
+<h4>To run React App, Use following commands:</h4>
 <p>
 
 ```npm
