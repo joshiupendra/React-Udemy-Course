@@ -95,4 +95,12 @@ npm run dev
       <li>When NOT to use useEffect()</li>
     </ul>
   </li>
+  <li>Quiz Project: Working with Effects<br>
+  Practice & Dive Deeper
+    <ul>
+      <li>Apply Your Knowledge</li>
+      <li>Dealing with Effect Dependencies & Cleanup</li>
+      <li>Combining Effects with Other React Concepts</li>
+    </ul>
+  </li>
 </ol>
