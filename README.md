@@ -103,4 +103,13 @@ npm run dev
       <li>Combining Effects with Other React Concepts</li>
     </ul>
   </li>
+  <li>React Counter Project<br>
+  Understanding & Optimizing React
+    <ul>
+      <li>How React Updates The DOM</li>
+      <li>Avoiding Ennecessary Updates</li>
+      <li>A Closer Look At Keys</li>
+      <li>State Scheduling & State Batching</li>
+    </ul>
+  </li>
 </ol>
