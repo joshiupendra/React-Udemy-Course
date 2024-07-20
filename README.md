@@ -119,4 +119,12 @@ npm run dev
       <li>Error Boundaries</li>
     </ul>
   </li>
+  <li>Placepicker with DB Project: Date Fetching & HTTP Requests<br>
+  Sending & Receiving Data via HTTP
+    <ul>
+      <li>How to Connect a Backend / Database</li>
+      <li>Fetching Data</li>
+      <li>Sending Data</li>
+    </ul>
+  </li>
 </ol>
