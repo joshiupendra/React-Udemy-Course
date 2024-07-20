@@ -126,5 +126,12 @@ npm run dev
       <li>Fetching Data</li>
       <li>Sending Data</li>
     </ul>
+    To run this projects Backend, run following commands in backend folder 
+    
+    ```npm
+    npm install
+    node app.js
+    ```
+    
   </li>
 </ol>
