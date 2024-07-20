@@ -119,12 +119,17 @@ npm run dev
       <li>Error Boundaries</li>
     </ul>
   </li>
-  <li>Placepicker with DB Project: Date Fetching & HTTP Requests<br>
+  <li>Placepicker with DB Project: Date Fetching & HTTP Requests & Custom Hooks<br>
   Sending & Receiving Data via HTTP
     <ul>
       <li>How to Connect a Backend / Database</li>
       <li>Fetching Data</li>
       <li>Sending Data</li>
+    </ul>
+  Creating & Using Custom React Hooks
+    <ul>
+      <li>Repetition: Rules of Hooks</li>
+      <li>Creating & Using Custom Hooks</li>
     </ul>
     To run this projects Backend, run following commands in backend folder 
     
