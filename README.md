@@ -139,4 +139,11 @@ npm run dev
     ```
     
   </li>
+  <li>React Forms Project: Working with Forms & User Input
+    <ul>
+      <li>Handling Form Submission & Validating User Input</li>
+      <li>Using Built-in Form Features</li>
+      <li>Building Custom Solutions</li>
+    </ul>
+  </li>
 </ol>
