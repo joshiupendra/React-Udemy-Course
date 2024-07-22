@@ -148,4 +148,8 @@ npm run dev
   </li>
   <li>React Food Order Project
   </li>
+  <li>React Redux Demo
+  </li>
+  <li>React Redux Counter Project
+  </li>
 </ol>
