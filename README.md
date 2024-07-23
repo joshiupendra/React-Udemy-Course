@@ -158,4 +158,11 @@ npm run dev
       <li>The Redux DevTools</li>
     </ul>
   </li>
+  <li>React Routing Project: Single-Page Application Routing
+  Multiple Pages In Single-Page Apps
+    <ul>
+      <li>Using React Router</li>
+      <li>Data Fetching & Submission</li>
+    </ul>
+  </li>
 </ol>
