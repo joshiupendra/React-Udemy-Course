@@ -10,6 +10,6 @@ const uiSlice = createSlice({
   }
 });
 
-export const uiAction = uiSlice.actions;
+export const uiActions = uiSlice.actions;
 
 export default uiSlice.reducer;
