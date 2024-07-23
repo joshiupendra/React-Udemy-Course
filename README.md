@@ -150,6 +150,12 @@ npm run dev
   </li>
   <li>React Redux Demo
   </li>
-  <li>React Redux Counter Project
+  <li>React Redux Counter Project: Diving Into Redux
+  </li>
+  <li>Redux Cart Project: Redux Deep Dive
+    <ul>
+      <li>Handling Async Tasks With Redux</li>
+      <li>The Redux DevTools</li>
+    </ul>
   </li>
 </ol>
