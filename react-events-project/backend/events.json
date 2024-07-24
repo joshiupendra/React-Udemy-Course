@@ -1,11 +1,1 @@
-{
-  "events": [
-    {
-      "id": "e1",
-      "title": "A dummy event",
-      "date": "2023-02-22",
-      "image": "https://blog.hubspot.de/hubfs/Germany/Blog_images/Optimize_Marketing%20Events%20DACH%202021.jpg",
-      "description": "Join this amazing event and connect with fellow developers."
-    }
-  ]
-}
+{"events":[{"title":"Boat Ride at Mekong Delta","image":"https://th.bing.com/th/id/OIP.Dw5-ToTDO-t57D1KIgI7bgHaE8?rs=1&pid=ImgDetMain","date":"2024-07-03","description":"Boat Ride in Vietnam","id":"4cb7d5b9-d27d-4bb5-8eb7-eac905ae7f1c"},{"id":"e1","title":"A dummy event","date":"2023-02-22","image":"https://blog.hubspot.de/hubfs/Germany/Blog_images/Optimize_Marketing%20Events%20DACH%202021.jpg","description":"Join this amazing event and connect with fellow developers."}]}
