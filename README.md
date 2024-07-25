@@ -187,7 +187,6 @@ npm run dev
       </ul>
     </ul>
     Deployed on a Firebase Hosting
-
     To Disbale hosting run following command: 
 
         ```npm
