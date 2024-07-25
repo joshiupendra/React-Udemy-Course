@@ -167,4 +167,11 @@ npm run dev
   </li>
   <li>React Events Project: Advanced React Routing
   </li>
+  <li>React Auth Project: Authentication
+  User Signup & Login
+    <ul>
+      <li>Implementing User Authentication</li>
+      <li>Adding Authentication Persistence & Auto-Logout</li>
+    </ul>
+  </li>
 </ol>
