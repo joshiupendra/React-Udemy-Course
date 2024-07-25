@@ -174,4 +174,17 @@ npm run dev
       <li>Adding Authentication Persistence & Auto-Logout</li>
     </ul>
   </li>
+  <li>React Blog Project: Deploying React Apps
+  From Development to Production
+    <ul>
+      <li>Server-side Routing vs Client-side Routing</li>
+      <ul>Deployment Steps
+        <li><b>Test Code:</b> Manually & with automated tests</li>
+        <li><b>Optimize Code:</b> Optimize user experience & performance</li>
+        <li><b>Build App:</b> Run build process to parse, transform & optimize code</li>
+        <li><b>Upload App:</b> Upload production code to hostin server</li>
+        <li><b>Configure Server:</b> Ensure app is served securely & as intended</li>
+      </ul>
+    </ul>
+  </li>
 </ol>
