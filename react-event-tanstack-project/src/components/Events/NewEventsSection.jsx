@@ -6,8 +6,8 @@ import { fetchEvents } from '../../util/http.js';
 
 export default function NewEventsSection() {
   const { data, isPending, isError, error } = useQuery({
-    queryKey: ["events"], // Caching key
-    queryFn: fetchEvents, 
+    queryKey: ["events", { max: 3 }], // Caching key
+    queryFn: ({signal, queryKey}) => fetchEvents({signal, ...queryKey[1] }), 
     staleTime: 5000, // Time before sendin next request
     // gcTime: 30000  // Caching data time TTL - Garbage Collection Time
   });
