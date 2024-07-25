@@ -133,10 +133,10 @@ npm run dev
     </ul>
     To run this projects Backend, run following commands in backend folder 
     
-    ```npm
-    npm install
-    node app.js
-    ```
+```npm
+  npm install
+  node app.js
+```
     
   </li>
   <li>React Forms Project: Working with Forms & User Input
@@ -189,9 +189,9 @@ npm run dev
     Deployed on a Firebase Hosting
     To Disbale hosting run following command: 
 
-        ```npm
-    firebase hosting:disable
-    ```
+```npm
+  firebase hosting:disable
+```
 
   </li>
 </ol>
