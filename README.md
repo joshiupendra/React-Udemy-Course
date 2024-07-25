@@ -194,4 +194,12 @@ npm run dev
 ```
 
   </li>
+  <li>React Event Tanstack Project: Data Fetching with TanStack Query
+  Sending HTTP Requests with Ease
+    <ul>
+      <li>Fetching & Mutating Data</li>
+      <li>Configuring Tanstack Query</li>
+      <li>Advanced Concepts: Cache Invalidation, Optimistic Updating & More</li>
+    </ul>
+  </li>
 </ol>
