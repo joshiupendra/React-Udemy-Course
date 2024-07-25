@@ -186,5 +186,13 @@ npm run dev
         <li><b>Configure Server:</b> Ensure app is served securely & as intended</li>
       </ul>
     </ul>
+    Deployed on a Firebase Hosting
+
+    To Disbale hosting run following command: 
+
+        ```npm
+    firebase hosting:disable
+    ```
+
   </li>
 </ol>
