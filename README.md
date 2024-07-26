@@ -215,4 +215,6 @@ npm run dev
   </li>
   <li>NextJS Essentials Pages Router: Using Pages Routing
   </li>
+  <li>NextJS Meetups Project: Using Pages Routing
+  </li>
 </ol>
