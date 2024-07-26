@@ -213,4 +213,6 @@ npm run dev
       <li>Extra Packages used:- slugify, xss</li>
     </ul>
   </li>
+  <li>NextJS Essentials Pages Router: Using Pages Routing
+  </li>
 </ol>
