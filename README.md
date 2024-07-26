@@ -202,9 +202,11 @@ npm run dev
       <li>Advanced Concepts: Cache Invalidation, Optimistic Updating & More</li>
     </ul>
   </li>
-  <li>NextJS Starting Project: Fullstack React Apps with NextJS
+  <li>NextJS Starting Project: Getting started with NextJS
+  </li>
+  <li>NextJS Foddies Project: Fullstack React Apps with NextJS
   Building Up On React
-    <ul>
+  <ul>
       <li>Routing, Pages & Server Components</li>
       <li>Fetching & Sending Data</li>
       <li>Styling, Image Upload & Managing Page Metadata</li>
