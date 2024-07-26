@@ -208,7 +208,7 @@ npm run dev
   Building Up On React
   <ul>
       <li>Routing, Pages & Server Components</li>
-      <li>Fetching & Sending Data</li>
+      <li>Fetching & Sending Data Using Better-SQLite3</li>
       <li>Styling, Image Upload & Managing Page Metadata</li>
     </ul>
   </li>
