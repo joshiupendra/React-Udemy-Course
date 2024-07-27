@@ -216,5 +216,16 @@ npm run dev
   <li>NextJS Essentials Pages Router: Using Pages Routing
   </li>
   <li>NextJS Meetups Project: Using Pages Routing
+    <ul>
+      <li>Used MongDB as a Database</li>
+    </ul>
+  </li>
+  <li>React Challenge Animation Project: Animating React Apps
+  Using Framer Motion To Bring Things to Life
+    <ul>
+      <li>Building More Complex Animations with Framer Motion</li>
+      <li>Animating Elements In & Out</li>
+      <li>Scroll=based Animations</li>
+    </ul>
   </li>
 </ol>
