@@ -228,4 +228,6 @@ npm run dev
       <li>Scroll=based Animations</li>
     </ul>
   </li>
+  <li>Framer Motion Playground
+  </li>
 </ol>
