@@ -230,4 +230,10 @@ npm run dev
   </li>
   <li>Framer Motion Playground
   </li>
+  <li>React Patterns Project: Patterns & Practices
+  Exploring Advanced React Petterns & Repeating Key Best Practices
+    <ul>
+      <li>Compound Components, Render Props & More</li>
+    </ul>
+  </li>
 </ol>
