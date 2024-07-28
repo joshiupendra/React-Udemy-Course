@@ -236,4 +236,6 @@ npm run dev
       <li>Compound Components, Render Props & More</li>
     </ul>
   </li>
+  <li>React Redux Products Project: Replacing Redux with React Hooks
+  </li>
 </ol>
