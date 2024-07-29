@@ -158,7 +158,7 @@ npm run dev
       <li>The Redux DevTools</li>
     </ul>
   </li>
-  <li>React Routing Project: Single-Page Application Routing
+  <li>React Routing Project: Single-Page Application Routing<br>
   Multiple Pages In Single-Page Apps
     <ul>
       <li>Using React Router</li>
@@ -167,14 +167,14 @@ npm run dev
   </li>
   <li>React Events Project: Advanced React Routing
   </li>
-  <li>React Auth Project: Authentication
+  <li>React Auth Project: Authentication<br>
   User Signup & Login
     <ul>
       <li>Implementing User Authentication</li>
       <li>Adding Authentication Persistence & Auto-Logout</li>
     </ul>
   </li>
-  <li>React Blog Project: Deploying React Apps
+  <li>React Blog Project: Deploying React Apps<br>
   From Development to Production
     <ul>
       <li>Server-side Routing vs Client-side Routing</li>
@@ -186,15 +186,15 @@ npm run dev
         <li><b>Configure Server:</b> Ensure app is served securely & as intended</li>
       </ul>
     </ul>
-    Deployed on a Firebase Hosting
-    To Disbale hosting run following command: 
+    Deployed on a Firebase Hosting<br>
+    To Disable hosting run following command: 
 
 ```npm
   firebase hosting:disable
 ```
 
   </li>
-  <li>React Event Tanstack Project: Data Fetching with TanStack Query
+  <li>React Event Tanstack Project: Data Fetching with TanStack Query<br>
   Sending HTTP Requests with Ease
     <ul>
       <li>Fetching & Mutating Data</li>
@@ -204,7 +204,7 @@ npm run dev
   </li>
   <li>NextJS Starting Project: Getting started with NextJS
   </li>
-  <li>NextJS Foddies Project: Fullstack React Apps with NextJS
+  <li>NextJS Foddies Project: Fullstack React Apps with NextJS<br>
   Building Up On React
   <ul>
       <li>Routing, Pages & Server Components</li>
@@ -220,7 +220,7 @@ npm run dev
       <li>Used MongDB as a Database</li>
     </ul>
   </li>
-  <li>React Challenge Animation Project: Animating React Apps
+  <li>React Challenge Animation Project: Animating React Apps<br>
   Using Framer Motion To Bring Things to Life
     <ul>
       <li>Building More Complex Animations with Framer Motion</li>
@@ -230,7 +230,7 @@ npm run dev
   </li>
   <li>Framer Motion Playground
   </li>
-  <li>React Patterns Project: Patterns & Practices
+  <li>React Patterns Project: Patterns & Practices<br>
   Exploring Advanced React Petterns & Repeating Key Best Practices
     <ul>
       <li>Compound Components, Render Props & More</li>
@@ -238,7 +238,7 @@ npm run dev
   </li>
   <li>React Redux Products Project: Replacing Redux with React Hooks
   </li>
-  <li>React Testing Project: Testing React Apps using Jest Library
+  <li>React Testing Project: Testing React Apps using Jest Library<br>
   Testing React Components & Building Blocks
     <ul>Wrting Tests - The Three "A"s
       <li><b>Arrange - </b>Set up the test data, test conditions and test environment</li>
