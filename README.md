@@ -238,4 +238,7 @@ npm run dev
   </li>
   <li>React Redux Products Project: Replacing Redux with React Hooks
   </li>
+  <li>React Testing Project: Testing React Apps
+  Testing React Components & Building Blocks
+  </li>
 </ol>
