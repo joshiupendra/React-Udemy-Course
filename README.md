@@ -238,7 +238,12 @@ npm run dev
   </li>
   <li>React Redux Products Project: Replacing Redux with React Hooks
   </li>
-  <li>React Testing Project: Testing React Apps
+  <li>React Testing Project: Testing React Apps using Jest Library
   Testing React Components & Building Blocks
+    <ul>Wrting Tests - The Three "A"s
+      <li><b>Arrange - </b>Set up the test data, test conditions and test environment</li>
+      <li><b>Act - </b>Run Logic that should be tested (e.g., executed function)</li>
+      <li><b>Assert - </b>Compare execution results with expected results</li>
+    </ul>
   </li>
 </ol>
