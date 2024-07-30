@@ -12,7 +12,8 @@ https://www.udemy.com/course/react-the-complete-guide-incl-redux
 
 ```npm
 npm install
-npm run dev
+npm run dev -- For projects created by Vite
+npm start -- For projects created by create-react-app
 ```
 
 </p>
