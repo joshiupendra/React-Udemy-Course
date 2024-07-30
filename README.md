@@ -249,4 +249,6 @@ npm run dev
   <li>React TypeScript Project: React + TypeScript<br>
   Adding Type Safety To React Apps
   </li>
+  <li>React Posts Project: Practice Project
+  </li>
 </ol>
