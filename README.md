@@ -246,4 +246,7 @@ npm run dev
       <li><b>Assert - </b>Compare execution results with expected results</li>
     </ul>
   </li>
+  <li>React TypeScript Project: React + TypeScript<br>
+  Adding Type Safety To React Apps
+  </li>
 </ol>
