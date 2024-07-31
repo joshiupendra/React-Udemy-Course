@@ -1,10 +1,12 @@
 import ExpenseItem from "./ExpenseItem";
-import { EXPENSES } from "../store/Expenses";
+import Card from "../UI/Card";
+import { EXPENSES } from "../../store/Expenses";
+import './Expenses.css';
 
 export default function Expenses() {
   return (
-    <div className="expenses">
+    <Card className="expenses">
       {EXPENSES.map((expense) => <ExpenseItem key={expense.id} title={expense.title} amount={expense.amount} date={expense.date} />)}
-    </div>
+    </Card>
   );
 } 
