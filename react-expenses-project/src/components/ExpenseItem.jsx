@@ -1,12 +1,13 @@
 import './ExpenseItem.css';
+import ExpenseDate from './ExpenseDate';
 
-export default function ExpenseItem() {
+export default function ExpenseItem({ title, date, amount }) {
   return (
     <div className="expense-item">
-      <div>Date</div>
+      <ExpenseDate date={date} />
       <div className="expense-item__description">
-        <h2>Title</h2>
-        <div className="expense-item__price">Amount</div>
+        <h2>{title}</h2>
+        <div className="expense-item__price">${amount}</div>
       </div>
     </div>
   );
