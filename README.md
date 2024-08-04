@@ -253,5 +253,5 @@ npm start -- For projects created by create-react-app
   <li>React Posts Project: Practice Project
   </li>
   <li>React Expenses Project: [Optional] React Basics & Working With Components
-  </li>
+  </li> 
 </ol>
