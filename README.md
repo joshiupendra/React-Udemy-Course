@@ -81,7 +81,7 @@ npm start -- For projects created by create-react-app
   </li>
   <li>Shopping Cart Project: Advanced State Management<br>
   Beyond Basic Apps & "Lifting Up State"
-    <ul>
+    <ul> 
       <li>The Problem Of Shared State: Prop Drilling
       <li>Embracing Component Composition</li>
       <li>Sharing State with Context</li>
